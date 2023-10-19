@@ -16,8 +16,6 @@ El KPI creado por mi es Calcular la tasa anual de mortalidad. Objetivo: reducir 
 
 Comenze viendo el dataframe enviado sin usar visual studio para ver las columnas que usaremos y un poco de datos, luego de verlo realize el EDA primero limpiando columnas no necesarias.
 
-Tambien cree un diccionario de datos usando terminos referidos en internet siendo este:
-![image](https://github.com/JLaurencioAJimenez/Projecto-individual-parte-2/assets/135534222/23a10969-aefa-495a-af0d-9e8f53a9fb63)
 
 Luego de realizar el EDA, crear graficos y comparaciones realize el KPI obligatorio donde comparo las estadisticas para ver si existe la disminución del 10% en decadas.
 
