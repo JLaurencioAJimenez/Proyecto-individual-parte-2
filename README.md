@@ -4,7 +4,7 @@
 
 ## CONTEXTO
 
-El proyecto se basa usando un dataset de accidentes de aviones donde nosotros debemos realizar un poroceso de Data Analytics, un dashboard interactivo usando Power BI y este debe tener un KPI obligatorio y uno creado por nosotros.
+El proyecto se basa usando un dataset de accidentes de aviones donde nosotros debemos realizar un proceso de Data Analytics, un dashboard interactivo usando Power BI y este debe tener un KPI obligatorio y uno creado por nosotros.
 
 El KPI obligatorio Evaluar la disminución de un 10% la tasa de fatalidad de la tripulación en los últimos 10 años, comparado a la década anterior.
 
